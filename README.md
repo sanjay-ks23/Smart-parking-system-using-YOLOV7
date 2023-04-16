@@ -15,7 +15,9 @@ For new input images, identify car instances and their locations in the parking 
 # Prerequisites
 
 Python 3.x
+
 PyTorch 1.8 or higher
+
 OpenCV 4.x or higher
 
 # Installation
